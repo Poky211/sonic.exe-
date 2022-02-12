@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				3,
+				0,
 				0
 			],
 			"fps": 24,
@@ -14,52 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-19
-			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "GF left note"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-20
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "GF Down Note"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				4
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "GF Up Note"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-20
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "GF Right Note"
-		},
-		{
-			"loop": false,
-			"offsets": [
 				-2,
-				-21
+				-2
 			],
 			"fps": 24,
 			"anim": "sad",
@@ -134,6 +90,50 @@
 				29
 			],
 			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-19
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note"
 		},
 		{
 			"loop": true,
